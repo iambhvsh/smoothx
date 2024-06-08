@@ -1,23 +1,51 @@
-# Nextra Docs Template 
+# SmoothX
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+SmoothX is a CSS Framework designed to enhance web development efficiency and optimize website performance. Leveraging the powerful foundation of Tailwind CSS, SmoothX offers an extensive collection of utility classes along with additional presets to streamline development processes.
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
+## Features
 
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
+- **Based on Tailwind CSS**: SmoothX builds upon the proven effectiveness of Tailwind CSS, providing a familiar environment for developers.
+  
+- **Fast & Scalable**: With its focus on performance optimization, SmoothX helps boost your website's loading times and scalability.
+  
+- **Performance Enhancement**: By utilizing presets and concise code structure, SmoothX contributes to improved website performance.
+  
+- **Comes with Presets**: Predefined configurations and presets are included to simplify development and reduce file size.
 
-## Quick Start
+## Usage
 
-Click the button to clone this repository and deploy it on Vercel:
+To get started with SmoothX, simply include the framework in your project and start utilizing its utility classes and presets. Refer to the documentation for detailed usage instructions.
 
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
+## Installation
 
-## Local Development
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+  <h1 class="text-3xl font-bold underline">
+    Hello world!
+  </h1>
+</body>
+</html>
+```
 
-First, run `pnpm i` to install the dependencies.
+## Documentation
 
-Then, run `pnpm dev` to start the development server and visit localhost:3000.
+For detailed documentation and usage guidelines, please refer to the [official SmoothX documentation](https://smoothx-docs.example.com).
+
+## Contributing
+
+We welcome contributions from the community! If you'd like to contribute to SmoothX, please check out our contribution guidelines in the [GitHub repository](https://github.com/smoothx).
 
 ## License
 
-This project is licensed under the MIT License.
+SmoothX is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+Thank you for choosing SmoothX for your web development needs. If you have any questions or feedback, feel free to reach out to us at [iambhvshh@outlook.com](mailto:iambhvshh@outlook.com).
