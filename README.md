@@ -1,20 +1,24 @@
 # SmoothX
 
-SmoothX is a CSS Framework designed to enhance web development efficiency and optimize website performance. Leveraging the powerful foundation of Tailwind CSS, SmoothX offers an extensive collection of utility classes along with additional presets to streamline development processes.
+SmoothX is a CSS Framework meticulously crafted to augment web development efficiency and optimize website performance. Building upon the robust foundation of Tailwind CSS, SmoothX offers an extensive repertoire of utility classes alongside supplementary presets, all aimed at streamlining development processes.
 
 ## Features
 
-- **Based on Tailwind CSS**: SmoothX builds upon the proven effectiveness of Tailwind CSS, providing a familiar environment for developers.
-  
-- **Fast & Scalable**: With its focus on performance optimization, SmoothX helps boost your website's loading times and scalability.
-  
-- **Performance Enhancement**: By utilizing presets and concise code structure, SmoothX contributes to improved website performance.
-  
-- **Comes with Presets**: Predefined configurations and presets are included to simplify development and reduce file size.
+- **Tailwind CSS Foundation**: SmoothX capitalizes on the proven efficacy of Tailwind CSS, furnishing developers with a familiar and conducive environment.
+
+- **Swift & Scalable**: Prioritizing performance optimization, SmoothX accelerates website loading times and enhances scalability.
+
+- **Performance Enhancement**: Through the utilization of presets and a succinct code structure, SmoothX contributes to heightened website performance.
+
+- **Predefined Presets**: Included predefined configurations and presets simplify development efforts and mitigate file size.
+
+- **Google Material Icons Support**: Includes Google Material Icons, obviating the need for additional file integration.
+
+- **OnePlus Slate Font**: Incorporates OnePlus's Slate Font, adding a touch of sophistication to the typography.
 
 ## Usage
 
-To get started with SmoothX, simply include the framework in your project and start utilizing its utility classes and presets. Refer to the documentation for detailed usage instructions.
+To commence utilizing SmoothX, effortlessly integrate the framework into your project and commence leveraging its utility classes and presets. Refer to the comprehensive documentation for detailed usage instructions.
 
 ## Installation
 
@@ -36,16 +40,16 @@ To get started with SmoothX, simply include the framework in your project and st
 
 ## Documentation
 
-For detailed documentation and usage guidelines, please refer to the [official SmoothX documentation](https://smoothx-docs.example.com).
+For exhaustive documentation and usage guidelines, kindly consult the [official SmoothX documentation](https://smoothx-docs.example.com).
 
 ## Contributing
 
-We welcome contributions from the community! If you'd like to contribute to SmoothX, please check out our contribution guidelines in the [GitHub repository](https://github.com/smoothx).
+Community contributions are warmly welcomed! Should you desire to contribute to SmoothX, please peruse our contribution guidelines in the [GitHub repository](https://github.com/smoothx).
 
 ## License
 
-SmoothX is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+SmoothX is licensed under the MIT License. Refer to the [LICENSE](LICENSE) file for comprehensive details.
 
 ---
 
-Thank you for choosing SmoothX for your web development needs. If you have any questions or feedback, feel free to reach out to us at [iambhvshh@outlook.com](mailto:iambhvshh@outlook.com).
+We extend our heartfelt gratitude for selecting SmoothX for your web development endeavors. Should you have any inquiries or feedback, please do not hesitate to contact us at [iambhvshh@outlook.com](mailto:iambhvshh@outlook.com).
